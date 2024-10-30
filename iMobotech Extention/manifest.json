@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "iMobotech Proxy",
+    "version": "1.0",
+    "description": "The last proxy you install!",
+    "permissions": ["proxy", "storage"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
